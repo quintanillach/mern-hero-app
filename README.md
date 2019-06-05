@@ -10,8 +10,10 @@ Before starting the development, you will need to install all the necessary tool
   - Prettier
   - Export AutoComplete
 
-* [MongoDB] (https://www.mongodb.com/download-center/community)
+* [MongoDB](https://www.mongodb.com/download-center/community)
 
-* [Express] (https://expressjs.com/en/starter/installing.html)
+* [Express](https://expressjs.com/en/starter/installing.html)
 
-* Node.js
+* [Node.js](https://nodejs.org/en/download/)
+
+* [Azure Account](https://azure.microsoft.com/en-us/free/)
